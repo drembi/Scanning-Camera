@@ -1,0 +1,197 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "0b64c53b-f6ab-4c20-89b9-635ddc2e9b7a")
+	(paper "A4")
+	(title_block
+		(title "ECET230")
+		(company "ECET230")
+		(comment 1 "Kreena Bhatt, David Rebisz")
+	)
+	(lib_symbols)
+	(sheet
+		(at 177.8 101.6)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7cfc2ab2-350b-455c-8fc5-3eb3a103c0a7")
+		(property "Sheetname" "Motor Voltage"
+			(at 177.8 100.8884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "motor_voltage.kicad_sch"
+			(at 177.8 127.5846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mainboard"
+				(path "/5228b383-1d52-48d6-a185-eeb13d6e55e7/e8e5bdcb-035c-401d-8cd8-fa45382d16b2"
+					(page "2d")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 76.2)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d18ba724-0999-4023-95a5-ff87844982c3")
+		(property "Sheetname" "Battery"
+			(at 77.47 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "battery.kicad_sch"
+			(at 77.47 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mainboard"
+				(path "/5228b383-1d52-48d6-a185-eeb13d6e55e7/e8e5bdcb-035c-401d-8cd8-fa45382d16b2"
+					(page "2a")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 76.2)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "de38918e-034e-442a-9e49-1f9031c39527")
+		(property "Sheetname" "Input"
+			(at 127 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "input.kicad_sch"
+			(at 127 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mainboard"
+				(path "/5228b383-1d52-48d6-a185-eeb13d6e55e7/e8e5bdcb-035c-401d-8cd8-fa45382d16b2"
+					(page "2b")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 50.8)
+		(size 25.4 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e148b44a-98a2-45eb-b8e8-9d26e93d4027")
+		(property "Sheetname" "Logic Voltage"
+			(at 177.8 50.0884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "logic_volt.kicad_sch"
+			(at 177.8 76.7846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mainboard"
+				(path "/5228b383-1d52-48d6-a185-eeb13d6e55e7/e8e5bdcb-035c-401d-8cd8-fa45382d16b2"
+					(page "2c")
+				)
+			)
+		)
+	)
+)

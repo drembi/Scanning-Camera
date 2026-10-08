@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "94446c90-eb28-4177-aaad-9a1b6254a0b2")
+	(paper "A4")
+	(title_block
+		(title "Storage")
+		(company "ECET230")
+		(comment 1 "Kreena Bhatt, David Rebisz")
+	)
+	(lib_symbols)
+)

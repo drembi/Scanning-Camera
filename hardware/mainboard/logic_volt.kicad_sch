@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "91a30576-3fbc-47c4-8699-08974cb0446b")
+	(paper "A4")
+	(title_block
+		(title "ECET230")
+		(company "ECET230")
+		(comment 1 "Kreena Bhatt, David Rebisz")
+	)
+	(lib_symbols)
+)

@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "a9164acf-e710-4488-8034-447ae29ad32c")
+	(paper "A4")
+	(title_block
+		(title "Debug")
+		(company "ECET230")
+		(comment 1 "Kreena Bhatt, David Rebisz")
+	)
+	(lib_symbols)
+)
