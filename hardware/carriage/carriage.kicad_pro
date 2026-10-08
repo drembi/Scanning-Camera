@@ -256,7 +256,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ScanningCamera.kicad_pro",
+    "filename": "carriage.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -424,38 +424,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "ScanningCamera.kicad_sch",
-        "name": "Microcontroller",
-        "uuid": "d4f91a9d-7e82-4e08-9d2b-99b476f4d2e4"
+        "filename": "carriage.kicad_sch",
+        "name": "Root",
+        "uuid": "0a54ac1e-b34f-437f-8e79-c16dc78832d2"
       }
     ],
-    "used_designators": "U1",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
-      "d4f91a9d-7e82-4e08-9d2b-99b476f4d2e4",
-      "Microcontroller"
-    ],
-    [
-      "e06db188-533d-414d-9d57-1448ff693775",
-      "PreviewModule"
-    ],
-    [
-      "46369e28-a3b1-4091-ac23-d95505e28334",
-      "ScannerModule"
-    ],
-    [
-      "59e479c1-396d-4585-a619-7babe8cc7a5d",
-      "DriverModule"
-    ],
-    [
-      "18a54d5e-7d16-4d23-8cf7-af47d1e62bce",
-      "PowerModule"
-    ],
-    [
-      "db583240-3281-4233-b64f-b0b183534273",
-      "BMS"
+      "0a54ac1e-b34f-437f-8e79-c16dc78832d2",
+      "Root"
     ]
   ],
   "text_variables": {},

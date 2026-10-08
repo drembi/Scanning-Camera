@@ -1,0 +1,21 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "0a54ac1e-b34f-437f-8e79-c16dc78832d2")
+	(paper "A4")
+	(title_block
+		(title "Carriage Board")
+		(date "2026-10-08")
+		(rev "1")
+		(company "ECET230")
+		(comment 1 "Kreena Bhatt, David Rebisz")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
